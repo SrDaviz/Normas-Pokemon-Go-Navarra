@@ -40,7 +40,7 @@ No somos estrictos, pero hay que cumplir un mínimo de convivencia para estar bi
 
 **INTERCAMBIOS:** En este grupo puedes interactuar con otros jugadores buscando posibles intercambios de pokemon.
 
-https://bit.ly/2yTOi4I
+[Intercambios Pokemon Pamplona](https://bit.ly/2yTOi4I)
 
 <h4 id="registro">REGISTRO Y VALIDACIÓN DE USUARIOS</h4>
 1 - Pide nombre para tu compañero y hacer una captura de pantalla del perfil de tu juego.
