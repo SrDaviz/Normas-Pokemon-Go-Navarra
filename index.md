@@ -2,7 +2,6 @@
 
 Bienvenid@s entrenador@s!
 Aunque tod@s somos bienvenid@s, se agradece que respetéis una serie de **NORMAS**:
-En estas normas, además de tratar de que haya una buena conducta y buen ambiente, pondremos un resumen de las utilidades de los bots que mas usamos y como se usan estas.
 <ol>
   <li><a href="#normas-basicas">Normas Básicas</a></li>
   <li><a href="#grupos-relacionados">Grupos relacionados</a></li>
