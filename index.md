@@ -10,7 +10,7 @@ Aunque tod@s somos bienvenid@s, se agradece que respetéis una serie de **NORMAS
 
 <h4 id="normas-basicas">NORMAS BÁSICAS</h4>
   
-Este grupo es el grupo general de Navarra. Si queréis entrar al grupo de Pamplona y comarca, deberás confirmar tu identidad de Pokémon GO (validarte) siguiendo las indicaciones que os digan los administradores. Para ello debéis contactar con uno de ellos: @IRANTXI @Balarckk @Popomovik @JaviMnrl @Apoxite 
+Este grupo es el grupo general de Navarra. Si queréis entrar al grupo de Pamplona y comarca, deberás confirmar tu identidad de Pokémon GO (validarte) siguiendo las indicaciones que os digan los administradores. Para ello debéis contactar con uno de ellos: [@IRANTXI](https://t.me/IRANTXI) [@Balarckk](https://t.me/Balarckk) [@Popomovik](https://t.me/Popomovil) [@JaviMnrl](https://t.me/JaviMnrl) [@Apoxite](https://t.me/Apoxite) [@Durfinen](https://t.me/Durfinen)
 
 Es obligatorio cumplir las normas de entrenador de Pokemon Go.
 
