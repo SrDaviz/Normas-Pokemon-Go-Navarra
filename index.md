@@ -16,19 +16,19 @@ Es obligatorio cumplir las normas de entrenador de Pokemon Go.
 
 El hecho de no haber leído las normas, no implica que no pueda haber un aviso/sanción correspondiente.
 
-🔞 Aunque en este grupo no hay límite de edad, en el grupo comarcal no está permitida la entrada a menores de edad
+- Aunque en este grupo no hay límite de edad, en el grupo comarcal no está permitida la entrada a menores de edad
 
-👤 Dado que somos muchos, será necesario contar con una imagen de perfil (desde ajustes de Telegram), un alias y estar validado con [@detectivepikachubot](https://t.me/detectivepikachubot)
+- Dado que somos muchos, será necesario contar con una imagen de perfil (desde ajustes de Telegram), un alias y estar validado con [@detectivepikachubot](https://t.me/detectivepikachubot)
 
-Se pueden enviar imagenes y demás multimedia siempre que no se abuse de ello, en la medida de lo posible evitar estas practicas ya que se satura el grupo de cosas inservibles para la mayoría, si se es pesado en este tema, puede conllevar limitación a la hora de enviar multimedia, lo mismo con los stikers.
+- Se pueden enviar imagenes y demás multimedia siempre que no se abuse de ello, en la medida de lo posible evitar estas practicas ya que se satura el grupo de cosas inservibles para la mayoría, si se es pesado en este tema, puede conllevar limitación a la hora de enviar multimedia, lo mismo con los stikers.
 
-No se pueden compartir imagenes de noticias que salen en el propio juego, asi como noticias de grupos que lanzan bulos sin fundamento como team evolution o team legendary, son bien conocidos por enviar falsas especulaciones.
+- No se pueden compartir imagenes de noticias que salen en el propio juego, asi como noticias de grupos que lanzan bulos sin fundamento como team evolution o team legendary, son bien conocidos por enviar falsas especulaciones.
 
-Para evitar que vuelvan a suceder situaciones en las que hay gente que no quiere saber el contenido nuevo que hayan sacado (misiones y demás) usaremos el bot @SpoilerzBot, no cuesta nada y así no se molesta a nadie, no todos jugamos al mismo ritmo y creemos que es una buena manera de respetar a todos, el que juegue con esto, puede acabar baneado/expulsado.
+- Para evitar que vuelvan a suceder situaciones en las que hay gente que no quiere saber el contenido nuevo que hayan sacado (misiones y demás) usaremos el bot @SpoilerzBot, no cuesta nada y así no se molesta a nadie, no todos jugamos al mismo ritmo y creemos que es una buena manera de respetar a todos, el que juegue con esto, puede acabar baneado/expulsado.
 
-No está permitido hablar de religión, política, deportes o temas que lleven a cualquier debate interminable y subido de tono.
+- No está permitido hablar de religión, política, deportes o temas que lleven a cualquier debate interminable y subido de tono.
 
-No somos estrictos, pero hay que cumplir un mínimo de convivencia para estar bien entre todos. Dicho esto, disfruta de tu estancia aquí, ¡y hazte con todos!
+- No somos estrictos, pero hay que cumplir un mínimo de convivencia para estar bien entre todos. Dicho esto, disfruta de tu estancia aquí, ¡y hazte con todos!
 
 <h4 id="grupos-relacionados">GRUPOS RELACIONADOS</h4>
 
