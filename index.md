@@ -16,9 +16,9 @@ Es obligatorio cumplir las normas de entrenador de Pokemon Go.
 
 El hecho de no haber leído las normas, no implica que no pueda haber un aviso/sanción correspondiente.
 
-No se permite la entrada a menores de 16 años, en caso de hacer caso omiso de esta norma, se llevará un ban permanente.
+🔞 Aunque en este grupo no hay límite de edad, en el grupo comarcal no está permitida la entrada a menores de edad
 
-Para poder dirigirse a ti e identificarse es obligatorio que te pongas un alias y una imagen de perfil (desde ajustes de telegram).
+👤 Dado que somos muchos, será necesario contar con una imagen de perfil (desde ajustes de Telegram), un alias y estar validado con [@detectivepikachubot](https://t.me/detectivepikachubot)
 
 Se pueden enviar imagenes y demás multimedia siempre que no se abuse de ello, en la medida de lo posible evitar estas practicas ya que se satura el grupo de cosas inservibles para la mayoría, si se es pesado en este tema, puede conllevar limitación a la hora de enviar multimedia, lo mismo con los stikers.
 
@@ -26,18 +26,19 @@ No se pueden compartir imagenes de noticias que salen en el propio juego, asi co
 
 Para evitar que vuelvan a suceder situaciones en las que hay gente que no quiere saber el contenido nuevo que hayan sacado (misiones y demás) usaremos el bot @SpoilerzBot, no cuesta nada y así no se molesta a nadie, no todos jugamos al mismo ritmo y creemos que es una buena manera de respetar a todos, el que juegue con esto, puede acabar baneado/expulsado.
 
-No se va a permitir a la gente que se desapunte de una raid dependiendo de lo que ha salido, si no vas a participar si sale X pokemon, no te apuntes, espera a saber lo que sale, el desapuntarse de estas raids se considerará falta de respeto.
-
 No está permitido hablar de religión, política, deportes o temas que lleven a cualquier debate interminable y subido de tono.
 
 No somos estrictos, pero hay que cumplir un mínimo de convivencia para estar bien entre todos. Dicho esto, disfruta de tu estancia aquí, ¡y hazte con todos!
 
 <h4 id="grupos-relacionados">GRUPOS RELACIONADOS</h4>
-RAIDS: Cuando estés validado, pide a algún admin que te meta. En ese grupo se organizan las Raids (Incursiones). Todo lo relacionado con la organización de ellas debe hablarse aquí. Para unirse es necesario estar validado.
 
-AVISTAMIENTOS: En este grupo se anuncian pokemon, misiones y demas cosas que se han encontrado por la comarca por si hay algún interesado en ir a por ello, contactar con @socebar @srdavid @davidsans @GreatP0rtu para que os agreguen.
+**POKEMON GO PAMPLONA:** Este es el grupo comarcal de charla y dudas. Cuando estés validado, pide a algún admin que te meta.
 
-INTERCAMBIOS En este grupo puedes interactuar con otros jugadores buscando posibles intercambios de pokemon.
+**RAIDS:** Cuando estés validado, pide a algún admin que te meta. En ese grupo se organizan las Raids (Incursiones). Para unirse es necesario estar validado.
+
+**AVISTAMIENTOS:** En este grupo se anuncian pokemon, misiones y demas cosas que se han encontrado por la comarca por si hay algún interesado en ir a por ello, contactar con  [@SrDaviz](https://t.me/SrDaviz) [@davidsans](https://t.me/davidsans) [@socebar](https://t.me/socebar) para que os agreguen.
+
+**INTERCAMBIOS:** En este grupo puedes interactuar con otros jugadores buscando posibles intercambios de pokemon.
 
 https://bit.ly/2yTOi4I
 
@@ -46,7 +47,7 @@ https://bit.ly/2yTOi4I
 
 2 - Abre el juego y renombra tu compañero con el nombre que te haya dicho un admin, haz la captura de pantalla y envíala al grupo de validaciones, no pueden pasar más de 5 minutos desde que se hace hasta que se envía.
 
-3 - Abre un privado con @detectivepikachubot, dale abajo a iniciar, escribe /register y sigue las indicaciones, te pedirá otra captura de pantalla con unas condiciones específicas.
+3 - Abre un privado con [@detectivepikachubot](https://t.me/detectivepikachubot), dale abajo a iniciar, escribe /register y sigue las indicaciones, te pedirá otra captura de pantalla con unas condiciones específicas.
 
 4 - Envía una captura de pantalla de la confirmación de pikachu en el grupo de validaciones.
 
