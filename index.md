@@ -1,4 +1,4 @@
-## Bienvenido al grupo de Navarra
+## Normas del grupo Pokemon Go Navarra Activo
 
 Bienvenid@s entrenador@s!
 Aunque tod@s somos bienvenid@s, se agradece que respetéis una serie de **NORMAS**:
@@ -12,9 +12,9 @@ Aunque tod@s somos bienvenid@s, se agradece que respetéis una serie de **NORMAS
   
 Este grupo es el grupo general de Navarra. Si queréis entrar al grupo de Pamplona y comarca, deberás confirmar tu identidad de Pokémon GO (validarte) siguiendo las indicaciones que os digan los administradores. Para ello debéis contactar con uno de ellos: [@IRANTXI](https://t.me/IRANTXI) [@Balarckk](https://t.me/Balarckk) [@Popomovik](https://t.me/Popomovil) [@JaviMnrl](https://t.me/JaviMnrl) [@Apoxite](https://t.me/Apoxite) [@Durfinen](https://t.me/Durfinen)
 
-Es obligatorio cumplir las normas de entrenador de Pokemon Go.
+- Es obligatorio cumplir las normas de entrenador de Pokemon Go.
 
-El hecho de no haber leído las normas, no implica que no pueda haber un aviso/sanción correspondiente.
+- El hecho de no haber leído las normas, no implica que no pueda haber un aviso/sanción correspondiente.
 
 - Aunque en este grupo no hay límite de edad, en el grupo comarcal no está permitida la entrada a menores de edad
 
