@@ -10,7 +10,7 @@ Aunque tod@s somos bienvenid@s, se agradece que respetéis una serie de **NORMAS
 
 <h4 id="normas-basicas">NORMAS BÁSICAS</h4>
   
-Este grupo es el grupo general de Navarra. Si queréis entrar al grupo de Pamplona y comarca, deberás confirmar tu identidad de Pokémon GO (validarte) siguiendo las indicaciones que os digan los administradores. Para ello debéis contactar con uno de ellos: [@IRANTXI](https://t.me/IRANTXI) [@Balarckk](https://t.me/Balarckk) [@Popomovik](https://t.me/Popomovil) [@JaviMnrl](https://t.me/JaviMnrl) [@Apoxite](https://t.me/Apoxite) [@Durfinen](https://t.me/Durfinen)
+Este grupo es el grupo general de Navarra. Si queréis entrar al grupo de Pamplona y comarca, deberás confirmar tu identidad de Pokémon GO (validarte) siguiendo las indicaciones que os digan los administradores. Para ello debéis contactar con uno de ellos: [@IRANTXI](https://t.me/IRANTXI) [@Balarckk](https://t.me/Balarckk) [@Popomovik](https://t.me/Popomovil) [@JaviMnrl](https://t.me/JaviMnrl) [@S3lik](https://t.me/S3lik)[@Apoxite](https://t.me/Apoxite) [@Durfinen](https://t.me/Durfinen)
 
 - Es obligatorio cumplir las normas de entrenador de Pokemon Go.
 
@@ -20,11 +20,7 @@ Este grupo es el grupo general de Navarra. Si queréis entrar al grupo de Pamplo
 
 - Dado que somos muchos, será necesario contar con una imagen de perfil (desde ajustes de Telegram), un alias y estar validado con [@detectivepikachubot](https://t.me/detectivepikachubot)
 
-- Se pueden enviar imagenes y demás multimedia siempre que no se abuse de ello, en la medida de lo posible evitar estas practicas ya que se satura el grupo de cosas inservibles para la mayoría, si se es pesado en este tema, puede conllevar limitación a la hora de enviar multimedia, lo mismo con los stikers.
-
-- No se pueden compartir imagenes de noticias que salen en el propio juego, asi como noticias de grupos que lanzan bulos sin fundamento como team evolution o team legendary, son bien conocidos por enviar falsas especulaciones.
-
-- Para evitar que vuelvan a suceder situaciones en las que hay gente que no quiere saber el contenido nuevo que hayan sacado (misiones y demás) usaremos el bot @SpoilerzBot, no cuesta nada y así no se molesta a nadie, no todos jugamos al mismo ritmo y creemos que es una buena manera de respetar a todos, el que juegue con esto, puede acabar baneado/expulsado.
+- Se pueden enviar imágenes y demás multimedia siempre que no se abuse de ello, en la medida de lo posible evitar estas prácticas ya que se satura el grupo de cosas inservibles para la mayoría, si se es pesado en este tema, puede conllevar limitación a la hora de enviar multimedia; lo mismo con los stickers.
 
 - No está permitido hablar de religión, política, deportes o temas que lleven a cualquier debate interminable y subido de tono.
 
@@ -36,7 +32,7 @@ Este grupo es el grupo general de Navarra. Si queréis entrar al grupo de Pamplo
 
 **RAIDS:** Cuando estés validado, pide a algún admin que te meta. En ese grupo se organizan las Raids (Incursiones). Para unirse es necesario estar validado.
 
-**AVISTAMIENTOS:** En este grupo se anuncian pokemon, misiones y demas cosas que se han encontrado por la comarca por si hay algún interesado en ir a por ello, contactar con  [@SrDaviz](https://t.me/SrDaviz) [@davidsans](https://t.me/davidsans) [@socebar](https://t.me/socebar) para que os agreguen.
+**AVISTAMIENTOS:** En este grupo se anuncian pokemon, misiones y demas cosas que se han encontrado por la comarca. Una vez estéis en el grupo de Raids, pedid el link a uno de estos administradores: [@SrDaviz](https://t.me/SrDaviz) [@davidsans](https://t.me/davidsans) [@socebar](https://t.me/socebar) para que os agreguen.
 
 **INTERCAMBIOS:** En este grupo puedes interactuar con otros jugadores buscando posibles intercambios de pokemon.
 
