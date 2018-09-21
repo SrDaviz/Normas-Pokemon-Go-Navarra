@@ -6,7 +6,7 @@ Aunque tod@s somos bienvenid@s, se agradece que respetéis una serie de **NORMAS
   <li><a href="#normas-basicas">Normas Básicas</a></li>
   <li><a href="#grupos-relacionados">Grupos relacionados</a></li>
   <li><a href="#registro">Registro y validación de usuarios</a></li>
-<ol>
+</ol>
 
 <h4 id="normas-basicas">NORMAS BÁSICAS</h4>
   
