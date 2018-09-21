@@ -1,7 +1,7 @@
 ## Bienvenido al grupo de Navarra
 En estas normas, además de tratar de que haya una buena conducta y buen ambiente, pondremos un resumen de las utilidades de los bots que mas usamos y como se usan estas.
 <ol>
-### INDICE 
+## Indice 
 <li><a href="#normas-basicas">Normas Básicas</a></li>
 <li><a href="#grupos-relacionados">Grupos relacionados</a></li>
 <li><a href="#registro-y-validacion">Registro y validación de usuarios</a></li>
@@ -43,7 +43,7 @@ INTERCAMBIOS En este grupo puedes interactuar con otros jugadores buscando posib
 
 https://bit.ly/2yTOi4I
 
-Registro y validación de usuarios
+## Registro y validación de usuarios
 1 - Pide nombre para tu compañero y hacer una captura de pantalla del perfil de tu juego.
 
 2 - Abre el juego y renombra tu compañero con el nombre que te haya dicho un admin, haz la captura de pantalla y envíala al grupo de validaciones, no pueden pasar más de 5 minutos desde que se hace hasta que se envía.
