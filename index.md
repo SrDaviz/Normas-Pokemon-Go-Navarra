@@ -10,7 +10,7 @@ Aunque tod@s somos bienvenid@s, se agradece que respetéis una serie de **NORMAS
 
 <h4 id="normas-basicas">NORMAS BÁSICAS</h4>
   
-Para poder entrar al grupo, deberás confirmar tu identidad de Pokémon GO (validarte ).
+Este grupo es el grupo general de Navarra. Si queréis entrar al grupo de Pamplona y comarca, deberás confirmar tu identidad de Pokémon GO (validarte) siguiendo las indicaciones que os digan los administradores. Para ello debéis contactar con uno de ellos: @IRANTXI @Balarckk @Popomovik @JaviMnrl @Apoxite 
 
 Es obligatorio cumplir las normas de entrenador de Pokemon Go.
 
