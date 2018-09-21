@@ -1,16 +1,17 @@
-Bienvenido al grupo de Pamplona
+##Bienvenido al grupo de Navarra
 En estas normas, además de tratar de que haya una buena conducta y buen ambiente, pondremos un resumen de las utilidades de los bots que mas usamos y como se usan estas.
-
-Índice
-Normas Básicas
-Grupos relacionados
-Registro y validación de usuarios
-Raids
-Crear una Raid
-Editar, cancelar y borrar una Raid
-Apuntarse a una Raid
-Añadir nuevos gimnasios a Pikachu
-Normas Básicas
+<ol>
+###Índice
+<li><a href="#normas-basicas">Normas Básicas</a></li>
+<li><a href="#grupos-relacionados">Grupos relacionados</a></li>
+<li><a href="#registro-y-validacion">Registro y validación de usuarios</a></li>
+<li><a href="#raids">Raids</a></li>
+<li><a href="#raids1">Crear una Raid</a></li>
+<li><a href="#raids2">Editar, cancelar y borrar una Raid</a></li>
+<li><a href="#raids3">Apuntarse a una Raid</a></li>
+<li><a href="#raids4">Añadir nuevos gimnasios a Pikachu</a></li>
+<ol>
+###Normas Básicas
 Para poder entrar al grupo, deberás confirmar tu identidad de Pokémon GO (validarte ).
 
 Es obligatorio cumplir las normas de entrenador de Pokemon Go.
@@ -33,7 +34,7 @@ No está permitido hablar de religión, política, deportes o temas que lleven a
 
 No somos estrictos, pero hay que cumplir un mínimo de convivencia para estar bien entre todos. Dicho esto, disfruta de tu estancia aquí, ¡y hazte con todos!
 
-Grupos relacionados
+###Grupos relacionados
 RAIDS: Cuando estés validado, pide a algún admin que te meta. En ese grupo se organizan las Raids (Incursiones). Todo lo relacionado con la organización de ellas debe hablarse aquí. Para unirse es necesario estar validado.
 
 AVISTAMIENTOS: En este grupo se anuncian pokemon, misiones y demas cosas que se han encontrado por la comarca por si hay algún interesado en ir a por ello, contactar con @socebar @srdavid @davidsans @GreatP0rtu para que os agreguen.
