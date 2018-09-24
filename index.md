@@ -10,17 +10,17 @@ Aunque tod@s somos bienvenid@s, se agradece que respetéis una serie de **NORMAS
 
 <h4 id="normas-basicas">NORMAS BÁSICAS</h4>
   
-Este grupo es el grupo general de Navarra. Si queréis entrar al grupo de Pamplona y comarca, deberás confirmar tu identidad de Pokémon GO (validarte) siguiendo las indicaciones que os digan los administradores. Para ello debéis contactar con uno de ellos: [@IRANTXI](https://t.me/IRANTXI) [@Balarckk](https://t.me/Balarckk) [@Popomovik](https://t.me/Popomovil) [@JaviMnrl](https://t.me/JaviMnrl) [@S3lik](https://t.me/S3lik) [@Apoxite](https://t.me/Apoxite) [@Durfinen](https://t.me/Durfinen)
+Este grupo es el grupo general de Navarra. Si quieres entrar al grupo de Pamplona y comarca, deberás confirmar tu identidad de Pokémon GO (validarte) siguiendo las indicaciones que os digan los administradores. Para ello debes contactar con uno de ellos: [@IRANTXI](https://t.me/IRANTXI) [@Balarckk](https://t.me/Balarckk) [@Popomovik](https://t.me/Popomovil) [@JaviMnrl](https://t.me/JaviMnrl) [@S3lik](https://t.me/S3lik) [@Apoxite](https://t.me/Apoxite) [@Durfinen](https://t.me/Durfinen)
 
 - Es obligatorio cumplir las normas de entrenador de Pokemon Go.
 
 - El hecho de no haber leído las normas, no implica que no pueda haber un aviso/sanción correspondiente.
 
-- Aunque en este grupo no hay límite de edad, en el grupo comarcal no está permitida la entrada a menores de edad
+- Aunque en este grupo no hay límite de edad, en el grupo comarcal no está permitida la entrada a menores de edad.
 
 - Dado que somos muchos, será necesario contar con una imagen de perfil (desde ajustes de Telegram), un alias y estar validado con [@detectivepikachubot](https://t.me/detectivepikachubot)
 
-- Se pueden enviar imágenes y demás multimedia siempre que no se abuse de ello, en la medida de lo posible evitar estas prácticas ya que se satura el grupo de cosas inservibles para la mayoría, si se es pesado en este tema, puede conllevar limitación a la hora de enviar multimedia; lo mismo con los stickers.
+- Se pueden enviar imágenes y demás multimedia siempre que no se abuse de ello, en la medida de lo posible evitar estas prácticas ya que se satura el grupo de cosas inservibles para la mayoría; si se es pesado en este tema, puede conllevar limitación a la hora de enviar multimedia; lo mismo con los stickers.
 
 - No está permitido hablar de religión, política, deportes o temas que lleven a cualquier debate interminable y subido de tono.
 
@@ -32,9 +32,9 @@ Este grupo es el grupo general de Navarra. Si queréis entrar al grupo de Pamplo
 
 **RAIDS:** Cuando estés validado, pide a algún admin que te meta. En ese grupo se organizan las Raids (Incursiones). Para unirse es necesario estar validado.
 
-**AVISTAMIENTOS:** En este grupo se anuncian pokemon, misiones y demas cosas que se han encontrado por la comarca. Una vez estéis en el grupo de Raids, pedid el link a uno de estos administradores: [@SrDaviz](https://t.me/SrDaviz) [@davidsans](https://t.me/davidsans) [@socebar](https://t.me/socebar) para que os agreguen.
+**AVISTAMIENTOS:** En este grupo se anuncian pokémon, misiones y demás cosas que se han encontrado por la comarca. Una vez estés en el grupo de Raids, pide el link a uno de estos administradores: [@SrDaviz](https://t.me/SrDaviz) [@davidsans](https://t.me/davidsans) [@socebar](https://t.me/socebar) para que te agreguen.
 
-**INTERCAMBIOS:** En este grupo puedes interactuar con otros jugadores buscando posibles intercambios de pokemon.
+**INTERCAMBIOS:** En este grupo puedes interactuar con otros jugadores buscando posibles intercambios de pokémon.
 
 [Intercambios Pokemon Pamplona](https://bit.ly/2yTOi4I)
 
@@ -43,7 +43,7 @@ Este grupo es el grupo general de Navarra. Si queréis entrar al grupo de Pamplo
 
 2 - Abre el juego y renombra tu compañero con el nombre que te haya dicho un admin, haz la captura de pantalla y envíala al grupo de validaciones, no pueden pasar más de 5 minutos desde que se hace hasta que se envía.
 
-3 - Abre un privado con [@detectivepikachubot](https://t.me/detectivepikachubot), dale abajo a iniciar, escribe /register y sigue las indicaciones, te pedirá otra captura de pantalla con unas condiciones específicas.
+3 - Abre un privado con [@detectivepikachubot](https://t.me/detectivepikachubot), dale abajo a iniciar, escribe '/register' y sigue las indicaciones, te pedirá otra captura de pantalla con unas condiciones específicas.
 
 4 - Envía una captura de pantalla de la confirmación de pikachu en el grupo de validaciones.
 
