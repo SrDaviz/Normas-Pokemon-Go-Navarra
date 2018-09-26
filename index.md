@@ -1,4 +1,4 @@
-## Normas del grupo Pokemon Go Navarra Activo
+## Normas del grupo Pokemon Go Navarra
 
 Bienvenid@s entrenador@s!
 Aunque tod@s somos bienvenid@s, se agradece que respetéis una serie de **NORMAS**:
@@ -6,6 +6,7 @@ Aunque tod@s somos bienvenid@s, se agradece que respetéis una serie de **NORMAS
   <li><a href="#normas-basicas">Normas Básicas</a></li>
   <li><a href="#grupos-relacionados">Grupos relacionados</a></li>
   <li><a href="#registro">Registro y validación de usuarios</a></li>
+  <li><a href="#resto-navarra">Resto de Zonas de Navarra</a></li>
 </ol>
 
 <h4 id="normas-basicas">NORMAS BÁSICAS</h4>
@@ -56,5 +57,12 @@ Este grupo es el grupo general de Navarra. Si quieres entrar al grupo de Pamplon
 8 - Para indicar una subida de nivel, basta con enviar una captura de pantalla del perfil donde se vea el nuevo nivel, una vez se esté validado. Si el bot no contesta nada, es debido a que el estado de validación no es correcto.
 
 9 - Cualquier duda preguntala en el grupo, si no te resuelve la duda cualquier usuario amable, aparecerá algun admin y la resolverá, tened paciencia, los admins tenemos vida privada y también trabajamos.
+
+<h4 id="resto-navarra">RESTO DE ZONAS DE NAVARRA</h4>
+
+| **ZONA**  | **LINK DEL GRUPO** |
+| :-------------: | :-------------: |
+| Tudela  | https://t.me/joinchat/GHE6hQ7t4X2CBsPvgq9Yrw  |
+| Sangüesa  | https://t.me/joinchat/KO-36EopPfEhsuvmLvpa2Q  |
 
 
