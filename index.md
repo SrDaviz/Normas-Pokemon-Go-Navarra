@@ -62,7 +62,7 @@ Este grupo es el grupo general de Navarra. Si quieres entrar al grupo de Pamplon
 
 | **ZONA**  | **LINK DEL GRUPO** |
 | :-------------: | :-------------: |
-| Tudela  | https://t.me/joinchat/GHE6hQ7t4X2CBsPvgq9Yrw  |
-| Sangüesa  | https://t.me/joinchat/KO-36EopPfEhsuvmLvpa2Q  |
+| Tudela  | [https://t.me/joinchat/GHE6hQ7t4X2CBsPvgq9Yrw](https://t.me/joinchat/GHE6hQ7t4X2CBsPvgq9Yrw)  |
+| Sangüesa  | [https://t.me/joinchat/KO-36EopPfEhsuvmLvpa2Q](https://t.me/joinchat/KO-36EopPfEhsuvmLvpa2Q)  |
 
 
