@@ -37,7 +37,7 @@ Este grupo es el grupo general de Navarra. Si quieres entrar al grupo de Pamplon
 
 **INTERCAMBIOS:** En este grupo puedes interactuar con otros jugadores buscando posibles intercambios de pokémon.
 
-[Intercambios Pokemon Pamplona](https://bit.ly/2yTOi4I)
+[Intercambios Pokemon Pamplona](https://t.me/joinchat/GK1YZBCXQUjwf0IqELLVZg)
 
 <h4 id="registro">REGISTRO Y VALIDACIÓN DE USUARIOS</h4>
 1 - Pide nombre para tu compañero y hacer una captura de pantalla del perfil de tu juego.
