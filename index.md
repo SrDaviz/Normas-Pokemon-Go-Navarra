@@ -53,7 +53,7 @@ Estado cuenta: Validada
 Equipo: xxxxxxxxx  
 Nivel: xx
 
-3 - Una vez validado con los dos bots, tienes que hablar con uno de los <a id="normas-basicas">administradores</a> para poder entrar al resto de grupos.
+3 - Una vez validado con los dos bots, tienes que hablar con uno de los <h1 id="normas-basicas">administradores</h1> para poder entrar al resto de grupos.
 
 4 - Te darán un enlace para entrar a un grupo de validaciones. Se te pedirá una **captura de pantalla de perfil** con un nombre del compañero específico.
 
