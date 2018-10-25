@@ -57,19 +57,18 @@ Nivel: xx
 
 4 - Te darán un enlace para entrar a un grupo de validaciones. Se te pedirá una **captura de pantalla de perfil** con un nombre del compañero específico.
 
-4 - Abre el juego y renombra tu compañero con el nombre que te haya dicho un administrador, haz la captura de pantalla y envíala al grupo de validaciones; no pueden pasar más de **5 minutos** desde que se hace hasta que se envía.
+5 - Abre el juego y renombra tu compañero con el nombre que te haya dicho un administrador, haz la captura de pantalla y envíala al grupo de validaciones; no pueden pasar más de **5 minutos** desde que se hace hasta que se envía.
 
-5 - Envía también una captura de pantalla de la confirmación de [@detectivepikachubot](https://t.me/detectivepikachubot) en el grupo de validaciones.
+6 - Envía también una captura de pantalla de la confirmación de [@detectivepikachubot](https://t.me/detectivepikachubot) en el grupo de validaciones.
 
-6 - Ponte un **alias** y un **avatar** en los ajustes del Telegram.
+7 - Ponte un **alias** y un **avatar** en los ajustes del Telegram.
 
-7 - Cuando hayas hecho eso, un administrador lo revisará y te meterá al grupo de **raids** de Pamplona, al **General** y al de **Avistamientos**. El de intercambios es público y opcional, por lo que podrás entrar cuando quieras.
+8 - Cuando hayas hecho eso, un administrador lo revisará y te meterá al grupo de **raids** de Pamplona, al **General** y al de **Avistamientos**. El de intercambios es público y opcional, por lo que podrás entrar cuando quieras.
 
-8 - En el grupo de raids **no se puede hablar**, sólo crear raids y anuncios, cualquier otro tipo de mensaje es borrado por el bot, así que si quieres consultar algo, lo mejor es que permanezcas en el grupo general.
+9 - En el grupo de raids **no se puede hablar**, sólo crear raids y anuncios, cualquier otro tipo de mensaje es borrado por el bot, así que si quieres consultar algo, lo mejor es que permanezcas en el grupo general.
+10 - Para indicar una **subida de nivel**, tienes que enviar una captura de pantalla de tu perfil del juego donde se vea el nuevo nivel a [@detectivepikachubot](https://t.me/detectivepikachubot), una vez se esté validado. Si el bot no contesta nada, es debido a que el estado de validación no es correcto. Para actualizar el nivel con [@profserbalbot](https://t.me/profserbalbot) simplemente escríbele por privado el nuevo nivel `Soy nivel xx`
 
-9 - Para indicar una **subida de nivel**, tienes que enviar una captura de pantalla de tu perfil del juego donde se vea el nuevo nivel a [@detectivepikachubot](https://t.me/detectivepikachubot), una vez se esté validado. Si el bot no contesta nada, es debido a que el estado de validación no es correcto. Para actualizar el nivel con [@profserbalbot](https://t.me/profserbalbot) simplemente escríbele por privado el nuevo nivel `Soy nivel xx`
-
-10 - Cualquier **duda** preguntala en el **grupo general**, si no te resuelve la duda cualquier usuario amable, aparecerá algun administrador y la resolverá, tened paciencia, los administradores tenemos vida privada y también trabajamos.
+11 - Cualquier **duda** preguntala en el **grupo general**, si no te resuelve la duda cualquier usuario amable, aparecerá algun administrador y la resolverá, tened paciencia, los administradores tenemos vida privada y también trabajamos.
 
 <h4 id="resto-navarra">RESTO DE ZONAS DE NAVARRA</h4>
 
