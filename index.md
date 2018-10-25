@@ -50,8 +50,8 @@ ID de Telegram: xxxxxxxxx
 Alias de Telegram: xxxxxxxxx  
 Nombre de entrenador: xxxxxxxxx  
 Estado cuenta: Validada  
-Equipo: Valor  
-Nivel: 40
+Equipo: xxxxxxxxx  
+Nivel: xx
 
 3 - Una vez validado con los dos bots, tienes que hablar con uno de los administradores para poder entrar al resto de grupos.
 
