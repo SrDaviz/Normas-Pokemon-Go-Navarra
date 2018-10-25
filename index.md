@@ -19,7 +19,7 @@ Este grupo es el grupo general de Navarra. Si quieres entrar al grupo de Pamplon
 
 - Aunque en este grupo no hay límite de edad, en el grupo comarcal no está permitida la entrada a menores de edad.
 
-- Dado que somos muchos, será necesario contar con una imagen de perfil (desde ajustes de Telegram), un alias y estar validado con [@detectivepikachubot](https://t.me/detectivepikachubot)
+- Dado que somos muchos, será necesario contar con una imagen de perfil (desde ajustes de Telegram), un alias y estar validado con [@profserbalbot](https://t.me/profserbalbot)
 
 - Se pueden enviar imágenes y demás multimedia siempre que no se abuse de ello, en la medida de lo posible evitar estas prácticas ya que se satura el grupo de cosas inservibles para la mayoría; si se es pesado en este tema, puede conllevar limitación a la hora de enviar multimedia; lo mismo con los stickers.
 
@@ -46,17 +46,26 @@ Este grupo es el grupo general de Navarra. Si quieres entrar al grupo de Pamplon
 
 3 - Abre un privado con [@detectivepikachubot](https://t.me/detectivepikachubot), dale abajo a iniciar, escribe `/register` y sigue las indicaciones, te pedirá otra captura de pantalla con unas condiciones específicas.
 
-4 - Envía una captura de pantalla de la confirmación de pikachu en el grupo de validaciones.
+4 - También deberás registrarte y validarte con [@profserbalbot](https://t.me/profserbalbot). El método más sencillo es escribir `/profile` por privado a [@detectivepikachubot](https://t.me/detectivepikachubot), y el mensaje que te responda (similar a este), reenviarlo a [@profserbalbot](https://t.me/profserbalbot) y estarás validado automáticamente.  
 
-5 - Ponte un alias y un avatar en los ajustes del telegram.
+ID de Telegram: xxxxxxxxx
+Alias de Telegram: xxxxxxxxx
+Nombre de entrenador: xxxxxxxxx
+Estado cuenta: Validada
+Equipo: Valor
+Nivel: 40
 
-6 - Cuando hayas hecho eso, un admin lo revisará y te meterá al grupo de raids de Pamplona y al General.
+5 - Envía una captura de pantalla de la confirmación de pikachu en el grupo de validaciones.
 
-7 - En el grupo de raids no se puede hablar, solo crear raids, todo lo que no sea raids es borrado por el bot, asi que si quieres consultar algo, es mejor que permanezcas en el grupo general.
+6 - Ponte un alias y un avatar en los ajustes del telegram.
 
-8 - Para indicar una subida de nivel, basta con enviar una captura de pantalla del perfil donde se vea el nuevo nivel, una vez se esté validado. Si el bot no contesta nada, es debido a que el estado de validación no es correcto.
+7 - Cuando hayas hecho eso, un admin lo revisará y te meterá al grupo de raids de Pamplona y al General.
 
-9 - Cualquier duda preguntala en el grupo, si no te resuelve la duda cualquier usuario amable, aparecerá algun admin y la resolverá, tened paciencia, los admins tenemos vida privada y también trabajamos.
+8 - En el grupo de raids no se puede hablar, solo crear raids, todo lo que no sea raids es borrado por el bot, asi que si quieres consultar algo, es mejor que permanezcas en el grupo general.
+
+9 - Para indicar una subida de nivel, basta con enviar una captura de pantalla del perfil donde se vea el nuevo nivel, una vez se esté validado. Si el bot no contesta nada, es debido a que el estado de validación no es correcto.
+
+10 - Cualquier duda preguntala en el grupo, si no te resuelve la duda cualquier usuario amable, aparecerá algun admin y la resolverá, tened paciencia, los admins tenemos vida privada y también trabajamos.
 
 <h4 id="resto-navarra">RESTO DE ZONAS DE NAVARRA</h4>
 
