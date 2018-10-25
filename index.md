@@ -43,7 +43,7 @@ Este grupo es el grupo general de Navarra. Si quieres entrar al grupo de Pamplon
 
 1 - Abre un privado con [@detectivepikachubot](https://t.me/detectivepikachubot), dale abajo a iniciar, escribe `/register` y sigue las indicaciones, te pedirá otra captura de pantalla con unas condiciones específicas.
 
-2 - También deberás **registrarte y validarte** con [@profserbalbot](https://t.me/profserbalbot). El método más sencillo es escribir `/profile` por privado a [@detectivepikachubot](https://t.me/detectivepikachubot) y el mensaje que te responda, reenviarlo a [@profserbalbot](https://t.me/profserbalbot) y estarás validado automáticamente.  
+2 - También deberás **registrarte y validarte** con [@profserbalbot](https://t.me/profserbalbot). El método más sencillo es escribir `/profile` por privado a [@detectivepikachubot](https://t.me/detectivepikachubot) y el mensaje que te responda, reenviarlo a [@profserbalbot](https://t.me/profserbalbot); la validación se efectuará automáticamente.  
 El mensaje que tienes que reenviar es similar a este:
 
 ID de Telegram: xxxxxxxxx  
