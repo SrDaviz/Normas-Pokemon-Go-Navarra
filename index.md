@@ -65,7 +65,8 @@ Nivel: xx
 
 8 - Cuando hayas hecho eso, un administrador lo revisará y te meterá al grupo de **raids** de Pamplona, al **General** y al de **Avistamientos**. El de intercambios es público y opcional, por lo que podrás entrar cuando quieras.
 
-9 - En el grupo de raids **no se puede hablar**, sólo crear raids y anuncios, cualquier otro tipo de mensaje es borrado por el bot, así que si quieres consultar algo, lo mejor es que permanezcas en el grupo general.
+9 - En el grupo de raids **no se puede hablar**, sólo crear raids y anuncios, cualquier otro tipo de mensaje es borrado por el bot, así que si quieres consultar algo, lo mejor es que permanezcas en el grupo general.  
+
 10 - Para indicar una **subida de nivel**, tienes que enviar una captura de pantalla de tu perfil del juego donde se vea el nuevo nivel a [@detectivepikachubot](https://t.me/detectivepikachubot), una vez se esté validado. Si el bot no contesta nada, es debido a que el estado de validación no es correcto. Para actualizar el nivel con [@profserbalbot](https://t.me/profserbalbot) simplemente escríbele por privado el nuevo nivel `Soy nivel xx`
 
 11 - Cualquier **duda** preguntala en el **grupo general**, si no te resuelve la duda cualquier usuario amable, aparecerá algun administrador y la resolverá, tened paciencia, los administradores tenemos vida privada y también trabajamos.
