@@ -40,13 +40,10 @@ Este grupo es el grupo general de Navarra. Si quieres entrar al grupo de Pamplon
 [Intercambios Pokemon Pamplona](https://t.me/joinchat/GK1YZBCXQUjwf0IqELLVZg)
 
 <h4 id="registro">REGISTRO Y VALIDACIÓN DE USUARIOS</h4>
-1 - Pide nombre para tu compañero y hacer una captura de pantalla del perfil de tu juego.
 
-2 - Abre el juego y renombra tu compañero con el nombre que te haya dicho un admin, haz la captura de pantalla y envíala al grupo de validaciones, no pueden pasar más de 5 minutos desde que se hace hasta que se envía.
+1 - Abre un privado con [@detectivepikachubot](https://t.me/detectivepikachubot), dale abajo a iniciar, escribe `/register` y sigue las indicaciones, te pedirá otra captura de pantalla con unas condiciones específicas.
 
-3 - Abre un privado con [@detectivepikachubot](https://t.me/detectivepikachubot), dale abajo a iniciar, escribe `/register` y sigue las indicaciones, te pedirá otra captura de pantalla con unas condiciones específicas.
-
-4 - También deberás registrarte y validarte con [@profserbalbot](https://t.me/profserbalbot). El método más sencillo es escribir `/profile` por privado a [@detectivepikachubot](https://t.me/detectivepikachubot), y el mensaje que te responda, reenviarlo a [@profserbalbot](https://t.me/profserbalbot) y estarás validado automáticamente.  
+2 - También deberás registrarte y validarte con [@profserbalbot](https://t.me/profserbalbot). El método más sencillo es escribir `/profile` por privado a [@detectivepikachubot](https://t.me/detectivepikachubot), y el mensaje que te responda, reenviarlo a [@profserbalbot](https://t.me/profserbalbot) y estarás validado automáticamente.  
 El mensaje que tienes que reenviar es similar a este:
 
 ID de Telegram: xxxxxxxxx  
@@ -55,6 +52,12 @@ Nombre de entrenador: xxxxxxxxx
 Estado cuenta: Validada  
 Equipo: Valor  
 Nivel: 40
+
+3 - Una vez validado con los dos bots, tienes que hablar con uno de los administradores para poder entrar al resto de grupos.
+
+4 - Te darán un enlace para entrar a un grupo de validaciones personal. Se te pedirá una captura de pantalla de perfil con con un nombre del compañero aleatorio.
+
+4 - Abre el juego y renombra tu compañero con el nombre que te haya dicho un admin, haz la captura de pantalla y envíala al grupo de validaciones, no pueden pasar más de 5 minutos desde que se hace hasta que se envía.
 
 5 - Envía una captura de pantalla de la confirmación de pikachu en el grupo de validaciones.
 
