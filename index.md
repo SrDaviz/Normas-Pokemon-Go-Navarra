@@ -63,11 +63,11 @@ Nivel: xx
 
 6 - Ponte un alias y un avatar en los ajustes del Telegram.
 
-7 - Cuando hayas hecho eso, un administrador lo revisará y te meterá al grupo de raids de Pamplona, al General y al de Avistamientos. El de intercambios es público y opcional, por lo que podrás entrar cuando quieras.
+7 - Cuando hayas hecho eso, un administrador lo revisará y te meterá al grupo de **raids** de Pamplona, al **General** y al de **Avistamientos**. El de intercambios es público y opcional, por lo que podrás entrar cuando quieras.
 
-8 - En el grupo de raids no se puede hablar, solo crear raids, todo lo que no sea raids es borrado por el bot, asi que si quieres consultar algo, es mejor que permanezcas en el grupo general.
+8 - En el grupo de raids no se puede hablar, sólo crear raids y anuncios, cualquier otro tipo de mensaje es borrado por el bot, así que si quieres consultar algo, lo mejor es que permanezcas en el grupo general.
 
-9 - Para indicar una subida de nivel, basta con enviar una captura de pantalla del perfil donde se vea el nuevo nivel, una vez se esté validado. Si el bot no contesta nada, es debido a que el estado de validación no es correcto.
+9 - Para indicar una subida de nivel, tienes que enviar una captura de pantalla de tu perfil del juego donde se vea el nuevo nivel a [@detectivepikachubot](https://t.me/detectivepikachubot), una vez se esté validado. Si el bot no contesta nada, es debido a que el estado de validación no es correcto.
 
 10 - Cualquier duda preguntala en el grupo, si no te resuelve la duda cualquier usuario amable, aparecerá algun admin y la resolverá, tened paciencia, los admins tenemos vida privada y también trabajamos.
 
