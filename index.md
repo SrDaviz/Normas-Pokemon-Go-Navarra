@@ -48,7 +48,7 @@ Este grupo es el grupo general de Navarra. Si quieres entrar al grupo de Pamplon
 
 4 - También deberás registrarte y validarte con [@profserbalbot](https://t.me/profserbalbot). El método más sencillo es escribir `/profile` por privado a [@detectivepikachubot](https://t.me/detectivepikachubot), y el mensaje que te responda (similar a este), reenviarlo a [@profserbalbot](https://t.me/profserbalbot) y estarás validado automáticamente.  
 
-ID de Telegram: xxxxxxxxx
+ID de Telegram: xxxxxxxxx  
 Alias de Telegram: xxxxxxxxx
 Nombre de entrenador: xxxxxxxxx
 Estado cuenta: Validada
