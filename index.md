@@ -29,9 +29,9 @@ Este grupo es el grupo general de Navarra. Si quieres entrar al grupo de Pamplon
 
 <h4 id="grupos-relacionados">GRUPOS RELACIONADOS</h4>
 
-**POKEMON GO PAMPLONA:** Este es el grupo comarcal de charla y dudas. Cuando estés validado, pide a algún admin que te meta.
+**POKEMON GO PAMPLONA:** Este es el grupo comarcal de charla y dudas. Cuando estés validado, pide a algún administrador que te meta.
 
-**RAIDS:** Cuando estés validado, pide a algún admin que te meta. En ese grupo se organizan las Raids (Incursiones). Para unirse es necesario estar validado.
+**RAIDS:** Cuando estés validado, pide a algún administrador que te meta. En ese grupo se organizan las Raids (Incursiones). Para unirse es necesario estar validado.
 
 **AVISTAMIENTOS:** En este grupo se anuncian pokémon, misiones y demás cosas que se han encontrado por la comarca. Una vez estés en el grupo de Raids, pide el link a uno de estos administradores: [@SrDaviz](https://t.me/SrDaviz) [@davidsans](https://t.me/davidsans) [@socebar](https://t.me/socebar) para que te agreguen.
 
@@ -67,9 +67,9 @@ Nivel: xx
 
 8 - En el grupo de raids no se puede hablar, sólo crear raids y anuncios, cualquier otro tipo de mensaje es borrado por el bot, así que si quieres consultar algo, lo mejor es que permanezcas en el grupo general.
 
-9 - Para indicar una subida de nivel, tienes que enviar una captura de pantalla de tu perfil del juego donde se vea el nuevo nivel a [@detectivepikachubot](https://t.me/detectivepikachubot), una vez se esté validado. Si el bot no contesta nada, es debido a que el estado de validación no es correcto.
+9 - Para indicar una subida de nivel, tienes que enviar una captura de pantalla de tu perfil del juego donde se vea el nuevo nivel a [@detectivepikachubot](https://t.me/detectivepikachubot), una vez se esté validado. Si el bot no contesta nada, es debido a que el estado de validación no es correcto. Para actualizar el nivel con [@profserbalbot](https://t.me/profserbalbot) simplemente escríbele por privado el nuevo nivel `Soy nivel xx`
 
-10 - Cualquier duda preguntala en el grupo, si no te resuelve la duda cualquier usuario amable, aparecerá algun admin y la resolverá, tened paciencia, los admins tenemos vida privada y también trabajamos.
+10 - Cualquier duda preguntala en el grupo, si no te resuelve la duda cualquier usuario amable, aparecerá algun administrador y la resolverá, tened paciencia, los administradores tenemos vida privada y también trabajamos.
 
 <h4 id="resto-navarra">RESTO DE ZONAS DE NAVARRA</h4>
 
