@@ -46,12 +46,12 @@ Este grupo es el grupo general de Navarra. Si quieres entrar al grupo de Pamplon
 2 - También deberás **registrarte y validarte** con [@profserbalbot](https://t.me/profserbalbot). El método más sencillo es escribir `/profile` por privado a [@detectivepikachubot](https://t.me/detectivepikachubot) y el mensaje que te responda, reenviarlo a [@profserbalbot](https://t.me/profserbalbot); la validación se efectuará automáticamente.  
 El mensaje que tienes que reenviar es similar a este:
 
-ID de Telegram: xxxxxxxxx  
-Alias de Telegram: xxxxxxxxx  
-Nombre de entrenador: xxxxxxxxx  
-Estado cuenta: Validada  
-Equipo: xxxxxxxxx  
-Nivel: xx
+`ID de Telegram: xxxxxxxxx`  
+`Alias de Telegram: xxxxxxxxx`  
+`Nombre de entrenador: xxxxxxxxx`  
+`Estado cuenta: Validada`  
+`Equipo: xxxxxxxxx`  
+`Nivel: xx`
 
 3 - Una vez validado con los dos bots, tienes que hablar con uno de los <a href="#admins">administradores</a> para poder entrar al resto de grupos.
 
