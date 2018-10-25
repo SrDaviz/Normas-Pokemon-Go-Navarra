@@ -55,15 +55,15 @@ Nivel: 40
 
 3 - Una vez validado con los dos bots, tienes que hablar con uno de los administradores para poder entrar al resto de grupos.
 
-4 - Te darán un enlace para entrar a un grupo de validaciones personal. Se te pedirá una captura de pantalla de perfil con con un nombre del compañero aleatorio.
+4 - Te darán un enlace para entrar a un grupo de validaciones. Se te pedirá una captura de pantalla de perfil con un nombre del compañero específico.
 
-4 - Abre el juego y renombra tu compañero con el nombre que te haya dicho un admin, haz la captura de pantalla y envíala al grupo de validaciones, no pueden pasar más de 5 minutos desde que se hace hasta que se envía.
+4 - Abre el juego y renombra tu compañero con el nombre que te haya dicho un administrador, haz la captura de pantalla y envíala al grupo de validaciones; no pueden pasar más de 5 minutos desde que se hace hasta que se envía.
 
-5 - Envía una captura de pantalla de la confirmación de pikachu en el grupo de validaciones.
+5 - Envía también una captura de pantalla de la confirmación de [@detectivepikachubot](https://t.me/detectivepikachubot) en el grupo de validaciones.
 
-6 - Ponte un alias y un avatar en los ajustes del telegram.
+6 - Ponte un alias y un avatar en los ajustes del Telegram.
 
-7 - Cuando hayas hecho eso, un admin lo revisará y te meterá al grupo de raids de Pamplona y al General.
+7 - Cuando hayas hecho eso, un administrador lo revisará y te meterá al grupo de raids de Pamplona, al General y al de Avistamientos. El de intercambios es público y opcional, por lo que podrás entrar cuando quieras.
 
 8 - En el grupo de raids no se puede hablar, solo crear raids, todo lo que no sea raids es borrado por el bot, asi que si quieres consultar algo, es mejor que permanezcas en el grupo general.
 
