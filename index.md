@@ -11,7 +11,7 @@ Aunque tod@s somos bienvenid@s, se agradece que respetéis una serie de **NORMAS
 
 <h4 id="normas-basicas">NORMAS BÁSICAS</h4>
   
-Este grupo es el grupo general de Navarra. Si quieres entrar al grupo de Pamplona y comarca, deberás confirmar tu identidad de Pokémon GO (validarte) siguiendo las indicaciones que os digan los administradores. Para ello debes contactar con uno de ellos: <a href="#admins">[@IRANTXI](https://t.me/IRANTXI) [@Balarckk](https://t.me/Balarckk) [@Popomovik](https://t.me/Popomovil) [@JaviMnrl](https://t.me/JaviMnrl) [@S3lik](https://t.me/S3lik) [@Apoxite](https://t.me/Apoxite) [@Durfinen](https://t.me/Durfinen)</a>
+Este grupo es el grupo general de Navarra. Si quieres entrar al grupo de Pamplona y comarca, deberás confirmar tu identidad de Pokémon GO (validarte) siguiendo las indicaciones que os digan los administradores. Para ello debes contactar con uno de ellos: <h4 id="admins">[@IRANTXI](https://t.me/IRANTXI) [@Balarckk](https://t.me/Balarckk) [@Popomovik](https://t.me/Popomovil) [@JaviMnrl](https://t.me/JaviMnrl) [@S3lik](https://t.me/S3lik) [@Apoxite](https://t.me/Apoxite) [@Durfinen](https://t.me/Durfinen)</h4>
 
 - Es obligatorio cumplir las normas de entrenador de Pokemon Go.
 
@@ -53,7 +53,7 @@ Estado cuenta: Validada
 Equipo: xxxxxxxxx  
 Nivel: xx
 
-3 - Una vez validado con los dos bots, tienes que hablar con uno de los <h1 id="normas-basicas">administradores</h1> para poder entrar al resto de grupos.
+3 - Una vez validado con los dos bots, tienes que hablar con uno de los <a href="#admins">administradores</a> para poder entrar al resto de grupos.
 
 4 - Te darán un enlace para entrar a un grupo de validaciones. Se te pedirá una **captura de pantalla de perfil** con un nombre del compañero específico.
 
