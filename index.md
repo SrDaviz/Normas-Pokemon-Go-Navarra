@@ -45,15 +45,15 @@ Este grupo es el grupo general de Navarra. Si quieres entrar al grupo de Pamplon
 
 2 - También deberás **registrarte y validarte** con [@profserbalbot](https://t.me/profserbalbot). El método es similar al de cualquier bot, deberás escribir estos datos según te los vaya pidiendo:
 
-`- /register o Quiero registrarme
-- Nick de entrenador
-- Nivel (solo números)
-- Color (equipo al que perteneces)`
+`- /register o Quiero registrarme`
+`- Nick de entrenador`
+`- Nivel (solo números)`
+`- Color (equipo al que perteneces)`
 
 Una vez registrado, para comprobar que la cuenta que has registrado es tuya, hay que validarla siguiendo estos pasos:
 
-`- /validate o Quiero validarme
-- Enviar una captura de pantalla junto a tu compañero pokemon con el nombre de “serbalbot” antes de 5 minutos desde que esta hecha la captura.`
+`- /validate o Quiero validarme`
+`- Enviar una captura de pantalla junto a tu compañero pokemon con el nombre de “serbalbot” antes de 5 minutos desde que esta hecha la captura.`
 
 3 - Una vez validado con los dos bots, tienes que hablar con uno de los <a href="#admins">administradores</a> para poder entrar al resto de grupos.
 
