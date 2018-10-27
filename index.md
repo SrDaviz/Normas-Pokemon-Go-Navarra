@@ -43,7 +43,23 @@ Este grupo es el grupo general de Navarra. Si quieres entrar al grupo de Pamplon
 
 1 - Abre un privado con [@detectivepikachubot](https://t.me/detectivepikachubot), dale abajo a iniciar, escribe `/register` y sigue las indicaciones, te pedirá otra captura de pantalla con unas condiciones específicas.
 
-2 - También deberás **registrarte y validarte** con [@profserbalbot](https://t.me/profserbalbot). El método más sencillo es escribir `/profile` por privado a [@detectivepikachubot](https://t.me/detectivepikachubot) y el mensaje que te responda, reenviarlo a [@profserbalbot](https://t.me/profserbalbot); la validación se efectuará automáticamente.  
+2 - También deberás **registrarte y validarte** con [@profserbalbot](https://t.me/profserbalbot). El método es similar al de cualquier bot, deberás escribir estos datos según te los vaya pidiendo:
+
+`
+- /register o Quiero registrarme
+- Nick de entrenador
+- Nivel (solo números)
+- Color (equipo al que perteneces)`
+
+Una vez registrado, para comprobar que la cuenta que has registrado es tuya, hay que validarla siguiendo estos pasos:
+
+`
+- /validate o Quiero validarme
+- Enviar una captura de pantalla junto a tu compañero pokemon con el nombre de “serbalbot” antes de 5 minutos desde que esta hecha la captura.`
+
+
+
+más sencillo es escribir `/profile` por privado a [@detectivepikachubot](https://t.me/detectivepikachubot) y el mensaje que te responda, reenviarlo a [@profserbalbot](https://t.me/profserbalbot); la validación se efectuará automáticamente.  
 El mensaje que tienes que reenviar es similar a este:
 
 `ID de Telegram: xxxxxxxxx`  
